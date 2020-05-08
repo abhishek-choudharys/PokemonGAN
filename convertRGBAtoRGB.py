@@ -12,7 +12,7 @@ for i in os.listdir(src):
     if img.mode == 'RGBA':
         img.load()
         bg = Image.new("RGB", img.size, (0,0,0))
-        bg.paste(img, mask = img.split()[3]) #we paste img into the alpha channel
+        bg.paste(img, mask = img.split()[3]) #we paste alpha channel in bg
         bg.save(os.path.join(dest, i.split('.')[0] + '.jpg'), 'JPEG')
     else:
         img.convert('RGB')
