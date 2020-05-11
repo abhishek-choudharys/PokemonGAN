@@ -16,6 +16,6 @@ If on desktop, navigate to the PokemonGAN directory.
 ```
 run resize.py
 run convertRGBAtoRGB.py
-run <name of the file>
+run [name of the file]
 
 ```
