@@ -24,6 +24,7 @@ run convertRGBAtoRGB.py
 ```
 
 Now, to run a certain type of file for training, type in:
+
 ```
 run [name of the file].py
 ```
