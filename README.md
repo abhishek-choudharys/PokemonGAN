@@ -13,6 +13,7 @@ cd ../content/PokemonGAN
 If on desktop, navigate to the PokemonGAN directory.
 
 <h2> Running instructions: </h2>
+
 ```
 run resize.py
 run convertRGBAtoRGB.py
