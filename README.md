@@ -21,13 +21,11 @@ This includes resizing them to 256x256 using resize.py and the latter file conve
 ```
 run resize.py
 run convertRGBAtoRGB.py
-
 ```
 
 Now, to run a certain type of file for training, type in:
 ```
 run [name of the file].py
-
 ```
 
 I'll be adding the saved model checkpoints and results soon.
