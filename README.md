@@ -29,4 +29,4 @@ Now, to run a certain type of file for training, type in:
 run [name of the file].py
 ```
 
-I'll be adding the saved model checkpoints and results soon.
+I'll be adding the saved model checkpoints and results soon...
