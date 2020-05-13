@@ -23,7 +23,7 @@ import cv2
 if params['dataset'] == 1:
     src = "Pokemon_GAN/data"
 elif params['dataset'] == 2:
-    src = 'data'
+    src = 'pokemon'
 
 dest = "resizedData"
 
