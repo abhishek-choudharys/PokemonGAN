@@ -1,7 +1,19 @@
+import argparse
+parser = argparse.ArgumentParser(description='Choose dataset')
+
+parser.add_argument('--dataset', dest='dataset', type=int, default=1, help='choose dataset folder')
+
+args = parser.parse_args()
+params = vars(args)
+
 import os
 import cv2
 
-src = "Pokemon_GAN/data"
+if params['dataset'] == 1:
+    src = "Pokemon_GAN/data"
+elif params['dataset'] == 2:
+    src = 'data'
+
 dest = "resizedData"
 
 os.mkdir(dest)
