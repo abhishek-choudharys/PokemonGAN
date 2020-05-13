@@ -19,7 +19,7 @@ First, we need to perform certain operations on the default images to make them 
 This includes resizing them to 256x256 using resize.py and the latter file converts them to RGB from RGBA, by effectively removing the aplha channel and saves them as .jpg images, which can be used much more efficiently in our approach to build a GAN.
 
 ```
-run resize.py
+run resize.py --dataset 2
 run convertRGBAtoRGB.py
 ```
 
