@@ -1,3 +1,14 @@
+'''
+Running instructions:
+
+To use the small dataset:
+run resize.py --dataset 1
+
+To use the much larger dataset:
+run resize.py --dataset 2
+
+'''
+
 import argparse
 parser = argparse.ArgumentParser(description='Choose dataset')
 
