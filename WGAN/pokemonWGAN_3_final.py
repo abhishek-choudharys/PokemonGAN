@@ -15,7 +15,7 @@ import os
 os.getcwd()
 
 import json
-token = {"username":"starkysparky","key":"68c443cd4c1b46e5192a749263ade6f4"}
+token = {"username":"","key":""}
 with open('/content/.kaggle/kaggle.json', 'w') as file:
     json.dump(token, file)
 
