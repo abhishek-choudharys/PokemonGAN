@@ -35,7 +35,7 @@ run resize.py --dataset 2
 run convertRGBAtoRGB.py
 ```
 
-Now, to run a certain type of file for training, type in:
+Now, to run a certain file for training, type in:
 
 ```
 run [name of the file].py
