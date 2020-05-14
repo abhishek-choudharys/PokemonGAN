@@ -25,7 +25,7 @@ run resize.py --dataset 1
 run convertRGBAtoRGB.py
 ```
 
-Inorder to use the much larger dataset (default), on which the results have been obtained, download and extract https://www.kaggle.com/kvpratama/pokemon-images-dataset to pokemon/ in the parent directory.
+Inorder to use the much larger dataset (default), on which the results have been obtained, download and extract https://www.kaggle.com/kvpratama/pokemon-images-dataset to pokemon/ in the main directory.
 Update: Images have already been included.
 
 Run:
