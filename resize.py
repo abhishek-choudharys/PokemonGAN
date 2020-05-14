@@ -12,7 +12,7 @@ run resize.py --dataset 2
 import argparse
 parser = argparse.ArgumentParser(description='Choose dataset')
 
-parser.add_argument('--dataset', dest='dataset', type=int, default=1, help='choose dataset folder')
+parser.add_argument('--dataset', dest='dataset', type=int, default=2, help='choose dataset folder')
 
 args = parser.parse_args()
 params = vars(args)
