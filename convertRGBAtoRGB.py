@@ -6,6 +6,7 @@ dest = "resized_RGB"
 dest2 = "WGAN/resized_RGB"
 
 os.mkdir(dest)
+os.mkdir(dest2)
 
 for i in os.listdir(src):
     img = Image.open(os.path.join(src, i))
