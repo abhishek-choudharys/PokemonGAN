@@ -105,7 +105,9 @@ def load_images_from_folder(folder):
             images.append(img_rgb)
     return images
 
-images = load_images_from_folder('../resized_RGB')
+curr_path = os.getcwd()
+os.chdir("..")
+images = load_images_from_folder('resized_RGB')
 type(images)
 
 import random
