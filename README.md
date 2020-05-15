@@ -35,7 +35,7 @@ run resize.py --dataset 2
 run convertRGBAtoRGB.py --type WGAN
 ```
 
-or, run this if you want to use the GAN
+or, if you want to use the GAN, run:
 ```
 run convertRGBAtoRGB.py --type GAN
 ```
