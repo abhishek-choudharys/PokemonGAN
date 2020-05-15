@@ -46,4 +46,10 @@ Now, to run a certain file for training, type in:
 run name/of/the/file.py
 ```
 
+For example, to train the WGAN, run:
+
+```
+run WGAN/pokemonWGAN_3_final.py
+```
+
 I'll be adding the saved model checkpoints and results soon...
