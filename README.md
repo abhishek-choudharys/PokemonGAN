@@ -22,7 +22,7 @@ To use the smaller dataset:
 
 ```
 run resize.py --dataset 1
-run convertRGBAtoRGB.py
+run convertRGBAtoRGB.py --type WGAN
 ```
 
 Inorder to use the much larger dataset (default), on which the results have been obtained, download and extract https://www.kaggle.com/kvpratama/pokemon-images-dataset to pokemon/ in the main directory.
@@ -32,13 +32,18 @@ Run:
 
 ```
 run resize.py --dataset 2
-run convertRGBAtoRGB.py
+run convertRGBAtoRGB.py --type WGAN
+```
+
+or, run this if you want to use the GAN
+```
+run convertRGBAtoRGB.py --type GAN
 ```
 
 Now, to run a certain file for training, type in:
 
 ```
-run [name of the file].py
+run name/of/the/file.py
 ```
 
 I'll be adding the saved model checkpoints and results soon...
