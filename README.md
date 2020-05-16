@@ -4,7 +4,6 @@ This is primarily planned to be a WGAN, but I plan to experiment with other type
 
 Website link: https://abhishek-choudharys.github.io/PokemonGAN/
 
-
 To clone the repository on your desktop or google colab, type in:
 ```
 !git clone https://github.com/abhishek-choudharys/PokemonGAN
@@ -53,6 +52,9 @@ For example, to train the WGAN, run:
 ```
 run WGAN/pokemonWGAN_3_final.py
 ```
+
+<h2> GAN: </h2>
+GAN stands for Generative Adversarial network. It's a class of machine learning frameworks where two neural nets interact with each other, often in a zero sum game. It aims to generate new data, by learning from a training set.
 
 I'll be adding the saved model checkpoints and results soon...
 
