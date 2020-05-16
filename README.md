@@ -60,6 +60,9 @@ I'll be adding the saved model checkpoints and results soon...
 <h2> GAN: </h2>
 GAN stands for Generative Adversarial network. It's a class of machine learning frameworks where two neural nets interact with each other, often in a zero sum game. It aims to generate new data, by learning from a training set.
 
+<h2> WGAN: </h2>
+WGAN is an improvement over traditional GANs. The 'W' stands for Wasserstein, a reference to the fact that it uses a new loss function called the Wasserstein loss. Thus, the discriminator functions more like a critic that assess image quality.
+
 
 Website link: https://abhishek-choudharys.github.io/PokemonGAN/
 
