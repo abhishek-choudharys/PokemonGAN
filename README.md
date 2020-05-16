@@ -53,10 +53,13 @@ For example, to train the WGAN, run:
 run WGAN/pokemonWGAN_3_final.py
 ```
 
+I'll be adding the saved model checkpoints and results soon...
+
+<hr>
+
 <h2> GAN: </h2>
 GAN stands for Generative Adversarial network. It's a class of machine learning frameworks where two neural nets interact with each other, often in a zero sum game. It aims to generate new data, by learning from a training set.
 
-I'll be adding the saved model checkpoints and results soon...
 
 Website link: https://abhishek-choudharys.github.io/PokemonGAN/
 
