@@ -2,6 +2,8 @@
 This is an attempt to create a GAN using a dataset of pokemon images.
 This is primarily planned to be a WGAN, but I plan to experiment with other types of GANs as well.
 
+Website link: https://abhishek-choudharys.github.io/PokemonGAN/
+
 
 To clone the repository on your desktop or google colab, type in:
 ```
@@ -53,3 +55,6 @@ run WGAN/pokemonWGAN_3_final.py
 ```
 
 I'll be adding the saved model checkpoints and results soon...
+
+Website link: https://abhishek-choudharys.github.io/PokemonGAN/
+
