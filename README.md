@@ -63,6 +63,7 @@ GAN stands for Generative Adversarial network. It's a class of machine learning 
 <h2> WGAN: </h2>
 WGAN is an improvement over traditional GANs. The 'W' stands for Wasserstein, a reference to the fact that it uses a new loss function called the Wasserstein loss. Thus, the discriminator functions more like a critic that assess image quality.
 
+<hr>
 
 Website link: https://abhishek-choudharys.github.io/PokemonGAN/
 
