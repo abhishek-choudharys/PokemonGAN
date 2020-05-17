@@ -53,7 +53,9 @@ For example, to train the WGAN, run:
 run WGAN/pokemonWGAN_3_final.py
 ```
 
-I'll be adding the saved model checkpoints and results soon...
+I'll be adding the saved model checkpoints soon...
+
+Results will be added soon.
 
 <hr>
 
@@ -66,4 +68,3 @@ WGAN is an improvement over traditional GANs. The 'W' stands for Wasserstein, a 
 <hr>
 
 Website link: https://abhishek-choudharys.github.io/PokemonGAN/
-
