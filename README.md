@@ -50,7 +50,8 @@ run name/of/the/file.py
 For example, to train the WGAN, run:
 
 ```
-run WGAN/pokemonWGAN_3_final.py
+cd WGAN
+run pokemonWGAN_3_final.py
 ```
 
 I'll be adding the saved model checkpoints soon...
