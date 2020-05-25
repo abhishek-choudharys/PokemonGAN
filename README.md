@@ -57,7 +57,7 @@ run pokemonWGAN_3_final.py
 <hr>
 <h2> Dataset </h2>
 
-The dataset containes individual images of all 890 pokemon.
+The dataset containes individual images of all 890 pokemon, and has been acquired from https://www.kaggle.com/kvpratama/pokemon-images-dataset.
 
 ![Sample dataset images](https://github.com/abhishek-choudharys/PokemonGAN/blob/master/images/sample_image_1.png?raw=true)
 
