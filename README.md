@@ -59,7 +59,7 @@ run pokemonWGAN_3_final.py
 
 The dataset containes individual images of all 890 pokemon.
 
-![Sample dataset images](link-to-image)
+![Sample dataset images](https://github.com/abhishek-choudharys/PokemonGAN/blob/master/images/sample_image_1.png?raw=true)
 
 I'll be adding the saved model checkpoints soon...
 
