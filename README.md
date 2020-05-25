@@ -54,6 +54,13 @@ cd WGAN
 run pokemonWGAN_3_final.py
 ```
 
+<hr>
+<h2> Dataset </h2>
+
+The dataset containes individual images of all 890 pokemon.
+
+![Sample dataset images](link-to-image)
+
 I'll be adding the saved model checkpoints soon...
 
 Results will be added soon.
