@@ -61,14 +61,15 @@ The dataset containes individual images of all 890 pokemon, and has been acquire
 
 ![Sample dataset images](https://github.com/abhishek-choudharys/PokemonGAN/blob/master/images/sample_image_1.png?raw=true)
 
-I'll be adding the saved model checkpoints soon...
-
 Results will be added soon.
 
+I'll be adding the saved model checkpoints soon...
 <hr>
 
 <h2> GAN </h2>
-GAN stands for Generative Adversarial network. It's a class of machine learning frameworks where two neural nets interact with each other, often in a zero sum game. It aims to generate new data, by learning from a training set.
+GAN stands for Generative Adversarial network. It's a class of machine learning frameworks where two neural nets interact with each other, often in a zero sum game. It aims to generate new data, by learning from a training set. They are an approach to generative modelling, often using deep learning methods, like convolutional nets.
+
+There are many types of GAN architectures, for example, WGAN, Pix2Pix, CycleGAN, DCGAN, etc, to name a few.
 
 <h2> WGAN </h2>
 WGAN is an improvement over traditional GANs. The 'W' stands for Wasserstein, a reference to the fact that it uses a new loss function called the Wasserstein loss. Thus, the discriminator functions more like a critic that assess image quality.
