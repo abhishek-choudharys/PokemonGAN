@@ -58,8 +58,13 @@ run pokemonWGAN_3_final.py
 <h2> Dataset </h2>
 
 The dataset containes individual images of all 890 pokemon, and has been acquired from https://www.kaggle.com/kvpratama/pokemon-images-dataset.
-
-![Sample dataset images](https://github.com/abhishek-choudharys/PokemonGAN/blob/master/images/sample_image_1.png?raw=true)
+<br />
+<br />
+Here is a sample of images taken from the dataset, after converting the images to .jpg:
+<br />
+<br />
+![Sample dataset images 1](https://github.com/abhishek-choudharys/PokemonGAN/blob/master/images/sample_image_1.png?raw=true)
+![Sample dataset images 2](https://raw.githubusercontent.com/abhishek-choudharys/PokemonGAN/master/images/sample_image_2.png)
 
 Results will be added soon.
 
